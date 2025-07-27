@@ -2,7 +2,7 @@
 > It's not perfect, much like most things in my life.
 
 ## About Me
-I'm Oscar Chu, a trans-girl high school dropout born in Aug 05 with a love (in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and ~@OukaroMF~ (❤️2025-03-07/19y til forever).
+I'm Oscar Chu, a trans-girl high school dropout born in Aug 05 with a love (in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and ~[@OukaroMF](https://github.com/OukaroMF)~ (❤️2025-03-07/19y til forever).
 
 ## Language
 - Cantonese/廣東話 (廣東話按1字) | Native
@@ -22,7 +22,7 @@ Businesses concluded in failure (profit/loss), in alphabetical order.
 ## Skills
 Stuff I am confident with:
 - Layer 3 routing protocols
-- Preparing lunch for @OukaroMF
+- Preparing lunch for [@OukaroMF](https://github.com/OukaroMF)
 - Listen to any depressed soul with sympathy
 
 ## Recently
@@ -33,6 +33,6 @@ Stuff I am confident with:
 ## Get in Touch
 Feel free to reach me at:
 - Email: self [at] hulipa.me
-- Telegram: @hulipa
-- Twitter: @hulipa487
+- Telegram: [@hulipa](https://t.me/hulipa)
+- Twitter: [@hulipa487](https://x.com/hulipa487)
 - [LinkedIn](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
