@@ -1,6 +1,6 @@
 # Welcome to my Github Profile
 ![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B%20Friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
-![Trans](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
+![Trans](https://pride-badges.pony.workers.dev/static/v1?label=Trans&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
 > It's not perfect, much like most things in my life.
 
 ## About Me
@@ -15,9 +15,12 @@ I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05 with a love 
 - Javascript | Beginner
 - Python | Amatuer
 
+## Work Experiences
+[Linkedin](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/) | [CV](https://hulipa.me/CV-TWC-en_US.pdf)
+
 ## My Ventures
 Businesses I started (+profit/-loss), in alphabetical order.
-- **AS204174**: Hosting, Colocation and Transit Provider, went under. (- millions)
+- [**AS204174**](https://bgp.he.net/AS204174): Hosting, Colocation and Transit Provider, went under. (- millions)
 - **Online Stationery Shop**: Lifetime supply of leftover stock. (- in the thousands)
 - **PCB Ruler**: Sold 30pcs in 1 day to classmates in Class 2A, some of us still use it to this day. (+ maybe few hundred?)
 
@@ -37,4 +40,3 @@ Feel free to reach me at:
 - Email: [self@hulipa.me](mailto:self@hulipa.me)
 - Telegram: [@hulipa](https://t.me/hulipa)
 - Twitter: [@hulipa487](https://x.com/hulipa487)
-- LinkedIn: [Tsz Wai Chu](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
