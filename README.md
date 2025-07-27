@@ -1,16 +1,38 @@
-## Hi there 👋
+# Welcome to my Github Profile
+> It's not perfect, much like most things in my life.
 
-<!--
-**hulipa487/hulipa487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Oscar Chu, a trans-girl high school dropout born in Aug 05 with a love (in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and ~@OukaroMF~ (❤️2025-03-07/19y til forever).
 
-Here are some ideas to get you started:
+## Language
+- Cantonese/廣東話 (廣東話按1字) | Native
+- English (For English press 2) | Fluent
+- Mandarin/普通话 (might as well hang up) | Basically Native
+- Cisco RPL (better) / Huawei XPL (same thing but worse) | Fluent
+- Go | Amatuer
+- Javascript | Beginner
+- Python | Amatuer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Ventures
+Businesses concluded in failure (profit/loss), in alphabetical order.
+- **AS204174**: Hosting, Colocation and Transit Provider, went under. (- in the millions)
+- **Online Stationery Shop**: Lifetime supply of leftover stock. (- in the thousands)
+- **PCB Ruler**: Sold 30pcs in 1 day to classmates in Class 2A, some of us still use it to this day. (+ maybe few hundred?)
+
+## Skills
+Stuff I am confident with:
+- Layer 3 routing protocols
+- Preparing lunch for @OukaroMF
+- Listen to any depressed soul with sympathy
+
+## Recently
+- Preparing for CCNA & CCNP Exam.
+- Looking for a full time job
+- Living in Dongguan, China
+
+## Get in Touch
+Feel free to reach me at:
+- Email: self [at] hulipa.me
+- Telegram: @hulipa
+- Twitter: @hulipa487
+- [LinkedIn](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
