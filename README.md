@@ -1,8 +1,10 @@
 # Welcome to my Github Profile
+![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B%20Friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
+![Trans](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
 > It's not perfect, much like most things in my life.
 
 ## About Me
-I'm Oscar Chu, a trans-girl high school dropout born in Aug 05 with a love (in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and ~[@OukaroMF](https://github.com/OukaroMF)~ (❤️2025-03-07/19y til forever).
+I'm Oscar Chu, a trans-girl high school dropout born in Aug 05 with a love (in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and [@OukaroMF](https://github.com/OukaroMF) (❤️2025-03-07/19y til forever).
 
 ## Language
 - Cantonese/廣東話 (廣東話按1字) | Native
