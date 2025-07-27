@@ -4,7 +4,7 @@
 > It's not perfect, much like most things in my life.
 
 ## About Me
-I'm Oscar Chu, a trans-girl high school dropout born in Aug 05 with a love (in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and [@OukaroMF](https://github.com/OukaroMF) (❤️2025-03-07/19y til forever).
+I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05 with a love (acquired in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and [@OukaroMF](https://github.com/OukaroMF) (❤️2025-03-07/19y til forever).
 
 ## Language
 - Cantonese/廣東話 (廣東話按1字) | Native
@@ -16,8 +16,8 @@ I'm Oscar Chu, a trans-girl high school dropout born in Aug 05 with a love (in c
 - Python | Amatuer
 
 ## My Ventures
-Businesses concluded in failure (profit/loss), in alphabetical order.
-- **AS204174**: Hosting, Colocation and Transit Provider, went under. (- in the millions)
+Businesses I started (+profit/-loss), in alphabetical order.
+- **AS204174**: Hosting, Colocation and Transit Provider, went under. (- millions)
 - **Online Stationery Shop**: Lifetime supply of leftover stock. (- in the thousands)
 - **PCB Ruler**: Sold 30pcs in 1 day to classmates in Class 2A, some of us still use it to this day. (+ maybe few hundred?)
 
@@ -25,16 +25,16 @@ Businesses concluded in failure (profit/loss), in alphabetical order.
 Stuff I am confident with:
 - Layer 3 routing protocols
 - Preparing lunch for [@OukaroMF](https://github.com/OukaroMF)
-- Listen to any depressed soul with sympathy
+- Listening to any depressed soul with sympathy
 
 ## Recently
-- Preparing for CCNA & CCNP Exam.
-- Looking for a full time job
+- Preparing for CCNA & CCNP Exam
+- Looking for a full time Network Engineer / Solution Architect job
 - Living in Dongguan, China
 
 ## Get in Touch
 Feel free to reach me at:
-- Email: self [at] hulipa.me
+- Email: [self@hulipa.me](mailto:self@hulipa.me)
 - Telegram: [@hulipa](https://t.me/hulipa)
 - Twitter: [@hulipa487](https://x.com/hulipa487)
-- [LinkedIn](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
+- LinkedIn: [Tsz Wai Chu](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
