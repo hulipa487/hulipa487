@@ -8,21 +8,22 @@ I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05 with a love 
 
 ## Language
 - Cantonese/廣東話 (廣東話按1字) | Native
-- English (For English press 2) | Fluent
+- English (For English press 2) | C1?
 - Mandarin/普通话 (might as well hang up) | Basically Native
-- Cisco RPL (better) / Huawei XPL (same thing but worse) | Fluent
+- Cisco RPL (better) / Huawei XPL (same thing but worse) | Proficient
 - Go | Amatuer
 - Javascript | Beginner
 - Python | Amatuer
+- Zig | Beginner
 
 ## Work Experiences
 [Linkedin](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/) | [CV](https://hulipa.me/CV-TWC-en_US.pdf)
 
 ## My Ventures
-Businesses I started (+profit/-loss), in alphabetical order.
-- [**AS204174**](https://bgp.he.net/AS204174): Hosting, Colocation and Transit Provider, went under. (- millions)
-- **Online Stationery Shop**: Lifetime supply of leftover stock. (- in the thousands)
-- **PCB Ruler**: Sold 30pcs in 1 day to classmates in Class 2A, some of us still use it to this day. (+ maybe few hundred?)
+Businesses I started, in alphabetical order.
+- [**AS204174**](https://bgp.he.net/AS204174): Hosting, Colocation and Transit Provider, went under.
+- **Online Stationery Shop**: Lifetime supply of leftover stock.
+- **PCB Ruler**: Sold 30pcs in 1 day to classmates in Class 2A, some of us still use it to this day.
 
 ## Skills
 Stuff I am confident with:
