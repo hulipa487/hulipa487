@@ -4,7 +4,7 @@
 > It's not perfect, like most things in my life.
 
 ## About Me
-I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05 with a love (acquired in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and [@OukaroMF](https://github.com/OukaroMF) (❤️2025-03-07/19y til forever).
+I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05, with a love (acquired in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and [@OukaroMF](https://github.com/OukaroMF) (❤️2025-03-07/19y til forever).
 
 ## Language
 - Cantonese/廣東話 (廣東話按1字) | Native
@@ -17,7 +17,7 @@ I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05 with a love 
 - Zig | Beginner
 
 ## Work Experiences
-[Linkedin](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/) | [CV](https://hulipa.me/CV-TWC-en_US.pdf)
+[Linkedin](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
 
 ## My Ventures
 Businesses I started, in alphabetical order.
@@ -28,16 +28,15 @@ Businesses I started, in alphabetical order.
 ## Skills
 Stuff I am confident with:
 - Layer 3 routing protocols
-- Preparing lunch for [@OukaroMF](https://github.com/OukaroMF)
-- Listening to any depressed soul with sympathy
+- Prompt Engineering (??)
+- Living off of rations shared with three meant for a single person. 
 
 ## Recently
-- Preparing for CCNA & CCNP Exam
-- Looking for a full time Network Engineer / Solution Architect job
-- Living in Dongguan, China
+- Vibe coding and crapping all over Github
+- Living with [@OukaroMF](https://github.com/OukaroMF) in Shenzhen, China
 
 ## Get in Touch
 Feel free to reach me at:
-- Email: [self@hulipa.me](mailto:self@hulipa.me)
+- Email: [oscar@mtf.edu.ci](mailto:oscar@mtf.edu.ci)
 - Telegram: [@hulipa](https://t.me/hulipa)
 - Twitter: [@hulipa487](https://x.com/hulipa487)
