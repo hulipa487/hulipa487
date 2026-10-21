@@ -6,9 +6,9 @@
 ## About Me
 I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05, with a love (acquired in chronological order) in Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y).
 
-## Language
+## Languages
 - Cantonese/廣東話 (廣東話按1字) | Native
-- English (For English press 2) | C1?
+- English (For English press 2) | IELTS Academic 7+ level 
 - Mandarin/普通话 (might as well hang up) | Basically Native
 - Cisco RPL (better) / Huawei XPL (same thing but worse) | Proficient
 - Go | Amatuer
@@ -20,7 +20,8 @@ I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05, with a love
 [Linkedin](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
 
 ## My Ventures
-- [**AS204174**](https://bgp.he.net/AS204174): Hosting, Colocation and Transit Provider, went under.
+- [**Fifth Dog Network Limited**](https://bgp.he.net/AS204174): Hosting, Colocation and Transit Provider, went under.
+> BGP data shown now stale.
 
 ## Skills
 Stuff I am confident with:
@@ -34,5 +35,5 @@ Stuff I am confident with:
 ## Get in Touch
 Feel free to reach me at:
 - Email: [me@hulipa.my](mailto:me@hulipa.my)
-- Telegram: [@hulipa](https://t.me/hulipa)
+- Telegram Group: [@exHK_hulipa](https://t.me/exHK_hulipa)
 - Twitter: [@hulipa487](https://x.com/hulipa487)
