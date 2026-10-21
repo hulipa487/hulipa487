@@ -4,7 +4,7 @@
 > It's not perfect, like most things in my life.
 
 ## About Me
-I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05, with a love (acquired in chronological order) for Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y) and [@OukaroMF](https://github.com/OukaroMF) (❤️2025-03-07/19y til forever).
+I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05, with a love (acquired in chronological order) in Cooking (P.5/10y), Hobbyist Electronics (P.6/11y), Coding (F.1/12y), Networking (F.3/14y), Compliance (18y).
 
 ## Language
 - Cantonese/廣東話 (廣東話按1字) | Native
@@ -20,23 +20,19 @@ I'm Oscar Chu, a HKer high school dropout trans-girl born in Aug 05, with a love
 [Linkedin](https://www.linkedin.com/in/tsz-wai-chu-b8b48022a/)
 
 ## My Ventures
-Businesses I started, in alphabetical order.
 - [**AS204174**](https://bgp.he.net/AS204174): Hosting, Colocation and Transit Provider, went under.
-- **Online Stationery Shop**: Lifetime supply of leftover stock.
-- **PCB Ruler**: Sold 30pcs in 1 day to classmates in Class 2A, some of us still use it to this day.
 
 ## Skills
 Stuff I am confident with:
 - Layer 3 routing protocols
 - Prompt Engineering (??)
-- Living off of rations shared with three meant for a single person. 
+- Living off of rations shared with four meant for a single person. 
 
 ## Recently
 - Vibe coding and crapping all over Github
-- Living with [@OukaroMF](https://github.com/OukaroMF) in Shenzhen, China
 
 ## Get in Touch
 Feel free to reach me at:
-- Email: [oscar@mtf.edu.ci](mailto:oscar@mtf.edu.ci)
+- Email: [me@hulipa.my](mailto:me@hulipa.my)
 - Telegram: [@hulipa](https://t.me/hulipa)
 - Twitter: [@hulipa487](https://x.com/hulipa487)
